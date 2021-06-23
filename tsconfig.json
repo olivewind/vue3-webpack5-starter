@@ -26,17 +26,17 @@
       "@components": [
         "src/components/index.ts"
       ],
+      "@directives/*": [
+        "src/directives/*"
+      ],
+      "@directives": [
+        "src/directives/index.ts"
+      ],
       "@constants/*": [
         "src/constants/*"
       ],
       "@constants": [
         "src/constants/index.ts"
-      ],
-      "@cores/*": [
-        "src/cores/*"
-      ],
-      "@cores": [
-        "src/cores/index.ts"
       ],
       "@layouts/*": [
         "src/layouts/*"
