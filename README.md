@@ -13,8 +13,6 @@ A starter template for Vue3 and Webpack5.
 - [x] StyleLint
 - [x] Prettier
 - [x] Docker
-- [x] Gitlab Pipeline yml
-
 
 ## Development
 
