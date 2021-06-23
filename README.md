@@ -26,11 +26,6 @@ A starter template for Vue3 and Webpack5.
   yarn dev
   ```
 
-## Test
-  ``` bash
-  yarn test
-  ```
-
 ## Build 
 
   ``` bash
