@@ -2,17 +2,17 @@
 
 A starter template for Vue3 and Webpack5.
 
-- [x] Vue 3
-- [x] Vuex
-- [x] Vue Router
-- [x] TypeScript 4
-- [x] Webpack 5
-- [x] Less
-- [x] Postcss
-- [x] ESlint
-- [x] StyleLint
-- [x] Prettier
-- [x] Docker
+- [x] vue3
+- [x] vuex
+- [x] vue router
+- [x] typescript 4
+- [x] webpack 5
+- [x] less
+- [x] postcss
+- [x] eslint
+- [x] stylelint
+- [x] prettier
+- [x] docker
 
 ## Development
 
