@@ -1,0 +1,98 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "module": "CommonJS",
+    "target": "ES5",
+    "baseUrl": ".",
+    "rootDir": ".",
+    "allowJs": true,
+    "experimentalDecorators": true,
+    "paths": {
+      "@assets/*": [
+        "src/assets/*"
+      ],
+      "@assets": [
+        "src/assets/index.ts"
+      ],
+      "@typings/*": [
+        "src/typings/*"
+      ],
+      "@typings": [
+        "src/typings/index.ts"
+      ],
+      "@components/*": [
+        "src/components/*"
+      ],
+      "@components": [
+        "src/components/index.ts"
+      ],
+      "@constants/*": [
+        "src/constants/*"
+      ],
+      "@constants": [
+        "src/constants/index.ts"
+      ],
+      "@cores/*": [
+        "src/cores/*"
+      ],
+      "@cores": [
+        "src/cores/index.ts"
+      ],
+      "@layouts/*": [
+        "src/layouts/*"
+      ],
+      "@layouts": [
+        "src/layouts/index.ts"
+      ],
+      "@models/*": [
+        "src/models/*"
+      ],
+      "@models": [
+        "src/models/index.ts"
+      ],
+      "@plugins/*": [
+        "src/plugins/*"
+      ],
+      "@plugins": [
+        "src/plugins/index.ts"
+      ],
+      "@routes/*": [
+        "src/routes/*"
+      ],
+      "@routes": [
+        "src/routes/index.ts"
+      ],
+      "@services/*": [
+        "src/services/*"
+      ],
+      "@services": [
+        "src/services/index.ts"
+      ],
+      "@stores/*": [
+        "src/stores/*"
+      ],
+      "@stores": [
+        "src/stores/index.ts"
+      ],
+      "@styles/*": [
+        "src/styles/*"
+      ],
+      "@styles": [
+        "src/styles/index.ts"
+      ],
+      "@utils/*": [
+        "src/utils/*"
+      ],
+      "@utils": [
+        "src/utils/index.ts"
+      ],
+    }
+  },
+  "include": [
+    "src/**/*",
+  ],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ],
+}
